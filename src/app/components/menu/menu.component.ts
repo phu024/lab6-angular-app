@@ -1,4 +1,4 @@
-import { productsType } from './../../products.modal';
+import { productsType } from '../../products.model';
 import { CartService } from './../../services/cart.service';
 import { Component, OnInit } from '@angular/core';
 
